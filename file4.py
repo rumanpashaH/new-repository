@@ -5,6 +5,6 @@ T = 1
 SI = (P * R * T) / 100
   
  
-print("simple interest is", SI) 
+print("The simple interest is", SI) 
    
 
